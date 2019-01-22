@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Talking Plant</string>
+    <string name="plant_image_description">Image for the plant</string>
+    <string name="plantInfo">Info</string>
+    <string name="choosePlant"><b>Choose a plant</b></string>
+    <string name="choosePlantImage_description">Image for the plant choice</string>
+    <string name="plantChoiceConfirm">Confirm</string>
+    <string-array name="plantNames">
+        <item>Rose</item>
+        <item>Tulip</item>
+        <item>Cactus</item>
+        <item>Poppy</item>
+        <item>Orchid</item>
+        <item>Lotus</item>
+        <item>Sunflower</item>
+    </string-array>
+    <string-array name="plantPersonalities">
+        <item>Happy</item>
+        <item>Funny</item>
+        <item>Grumpy</item>
+        <item>Lover</item>
+    </string-array>
+    <string name="temperatureText"><b>Temperature: </b></string>
+    <string name="waterText"><b>Water: </b></string>
+    <string name="lightText"><b>Light: </b></string>
+    <string name="seasonImageDescription">Image for the season</string>
+    <string name="timeOfDayImageDescription">Image for the time of day</string>
+    <string name="automaticWateringImageDescription">Image for the automatic watering</string>
+    <string name="switchOn">ON</string>
+    <string name="switchOff">OFF</string>
+</resources>
